@@ -1,21 +1,50 @@
-# trello_postman_collection
+# Trello Postman Collection
 
-Creating a collection of queries for the following cases:
+This collection of queries demonstrates the verification of Trello operations, including managing lists and cards. Below are the test cases covered in this collection:
 
-*Adding three (3) new lists - verification of correct addition
+## List Operations
 
-Updating the name of one (1) list - verification of correct update
+1. **Adding three (3) new lists**  
+   - Verify that the lists are created successfully.  
 
-Closing/Archiving a list - verification of correct closure
+2. **Updating the name of one (1) list**  
+   - Ensure the list name is updated correctly.  
 
-Adding five (5) cards to a list - verification of correct addition
+3. **Closing/Archiving a list**  
+   - Confirm the list is closed or archived as expected.  
 
-Updating the name of one (1) card - verification of correct update
+---
 
-Deleting one (1) card - verification of correct deletion
+## Card Operations
 
-Closing/Archiving one (1) card - verification of correct closure
+1. **Adding five (5) cards to a list**  
+   - Verify that all five cards are created successfully.  
 
-Moving one (1) card to another list - verification of correct transfer
+2. **Updating the name of one (1) card**  
+   - Ensure the card name is updated correctly.  
 
-Creating a checklist on one (1) card - verification of correct creation
+3. **Deleting one (1) card**  
+   - Verify that the card is deleted successfully.  
+
+4. **Closing/Archiving one (1) card**  
+   - Confirm the card is closed or archived as expected.  
+
+5. **Moving one (1) card to another list**  
+   - Ensure the card is moved to the specified list successfully.  
+
+6. **Creating a checklist on one (1) card**  
+   - Verify that the checklist is created successfully on the card.  
+
+---
+
+## How to Use
+
+- Import the collection into Postman.
+- Use environment variables for API keys, tokens, board IDs, and other dynamic values.
+- Execute each request and validate the responses to match the expected outcomes.
+
+## Notes
+
+- Ensure the Trello API key and token are set up in your Postman environment.
+- Refer to the [Trello API Documentation](https://developer.atlassian.com/cloud/trello/rest/) for further details on request formats and endpoints.
+
