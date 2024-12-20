@@ -2,7 +2,7 @@
 
 Creating a collection of queries for the following cases:
 
-Adding three (3) new lists - verification of correct addition
+*Adding three (3) new lists - verification of correct addition
 
 Updating the name of one (1) list - verification of correct update
 
