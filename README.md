@@ -39,7 +39,7 @@ This collection of queries demonstrates the verification of Trello operations, i
 
 ## How to Use
 
-- Import the collection into Postman https://grey-escape-65114.postman.co/workspace/New-Team-Workspace~6120862f-680e-465e-b8d3-d8bb9457110e/collection/30974412-26481c2e-7fb3-4208-ba1e-ed76ee89ea58?action=share&creator=30974412&active-environment=30974412-bb2828bb-e32f-430e-acaf-0f6a261d2e48
+- [Import the collection into Postman](https://grey-escape-65114.postman.co/workspace/New-Team-Workspace~6120862f-680e-465e-b8d3-d8bb9457110e/collection/30974412-26481c2e-7fb3-4208-ba1e-ed76ee89ea58?action=share&creator=30974412&active-environment=30974412-bb2828bb-e32f-430e-acaf-0f6a261d2e48)
 - Use environment variables for API keys, tokens, board IDs, and other dynamic values.
 - Execute each request and validate the responses to match the expected outcomes.
 
